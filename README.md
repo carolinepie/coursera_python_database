@@ -1,2 +1,2 @@
-# coursera_python_database
-Assignment code for Coursera course: Using Databases with Python
+# coursera_python_database_and_web_data
+Assignment code for Coursera courses: Using Databases with Python AND Using Python to Access Web Data
